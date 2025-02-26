@@ -9,11 +9,11 @@ This project utilizes a deterministic Susceptible-Infected-Recovered (SIR) model
 <br><br>
 
 # Results and Analysis
-The simulation produced typical behavior for an SIR model, with the number of susceptible individuals decreasing as they became infected, while the infected population rose and later fell as individuals recovered. The peak of the infected population occurred early in the simulation, followed by a gradual decline as more individuals transitioned to the recovered state. Throughout the simulation, the total population remained constant, as no births or deaths were modeled. The infection rate (a) and recovery rate (b) were crucial in shaping the dynamics of disease spread. Higher infection rates led to a faster rise in the number of infected individuals, while a higher recovery rate resulted in a quicker decline in the infected population. The results emphasized the impact of these parameters on the timing and magnitude of the disease's peak.
+The code simulates the spread of an infectious disease wih customizable parameters like recovery rate (b), infection rate (a), and population size (N). The simulation produced typical behavior for an SIR model, with the number of susceptible individuals decreasing as they became infected, while the infected population rose and later fell as individuals recovered. The peak of the infected population occurred early in the simulation, followed by a gradual decline as more individuals transitioned to the recovered state. Throughout the simulation, the total population remained constant, as no births or deaths were modeled. The infection rate and recovery rate were crucial in shaping the dynamics of disease spread. Higher infection rates led to a faster rise in the number of infected individuals, while a higher recovery rate resulted in a quicker decline in the infected population. The results emphasized the impact of these parameters on the timing and magnitude of the disease's peak.
 
-Future improvements could include incorporating more realistic dynamics, such as  birth and death rates to account for population turnover. Additionally, including factors like vaccination, immunity loss, or external interventions (e.g., quarantines) would make the model more applicable to real-world scenario. 
+Future improvements to this simulation could include incorporating more realistic dynamics, such as  birth and death rates to account for population turnover. Additionally, including factors like vaccination, immunity loss, or external interventions (e.g., quarantines) would make the model more applicable to real-world scenario. 
 
-<sup><sub>Word Count: 172 words</sub></sup>
+<sup><sub>Word Count: 196 words</sub></sup>
 <br><br>
 
 # Languages Used
