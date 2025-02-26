@@ -16,5 +16,8 @@ Future improvements to this simulation could include incorporating more realisti
 <sup><sub>Word Count: 196 words</sub></sup>
 <br><br>
 
+# Output
+![SIR Model Simulation](SIRModelSimulation.png)
+
 # Languages Used
-- **MATLAB**
+- **R**
